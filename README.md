@@ -1,2 +1,0 @@
-# termuxfonts
-Fonts for termuxbox
